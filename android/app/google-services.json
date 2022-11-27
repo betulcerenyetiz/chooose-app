@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34159025608",
+    "firebase_url": "https://chooose-4694b-default-rtdb.firebaseio.com",
+    "project_id": "chooose-4694b",
+    "storage_bucket": "chooose-4694b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34159025608:android:beff80498d8a637fadb4fd",
+        "android_client_info": {
+          "package_name": "com.chooose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34159025608-m5s88i4a9tisg371ok7082okt60pseh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArnE2i4oXX4W96-I5vXP3Z9SRvISjd2Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34159025608-m5s88i4a9tisg371ok7082okt60pseh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
